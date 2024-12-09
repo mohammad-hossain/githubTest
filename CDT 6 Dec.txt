@@ -1,0 +1,44 @@
+SGN Version 1 Issue for PL191: Ongoing discussions with Smarter Data regarding SGN version 1 not being identified in Skype for PL191, particularly affecting the restrict quarterly SGC lodgement. Steve is handling this.
+
+Payday Super SGC Calculator for ATO Website: Belinda Black raised the need to assess whether a new Payday Super SGC Calculator is required on the ATO website. The team is reviewing this in light of the ATO initiating and sending assessments. This will be discussed in upcoming Tech Talk sessions.
+
+Tech Talk Session Recap: Digital Data Solutions team hosted an informative Tech Talk. Stakeholders to provide feedback by next Tuesday.
+==
+
+Update on Draft Law from Treasury
+
+Scott Sargent shared that a draft law from Treasury is under review, focusing on:
+Redesigned SGC,
+Administrative uplift,
+Late payment penalties,
+SGAA amendments.
+This draft is a subset of the full amendments required for Payday Super and will be refined before being released for public consultation.
+
+Exposure Draft Timeline: Scott Sargent noted Treasury's optimism about releasing the exposure draft by year-end, but the more likely timeline is in the new year. The team will monitor this closely and provide updates.
+
+Project Progress: Carmen Radloff confirmed the project will continue to progress by reviewing available documents, and delivering outputs where possible, while awaiting final law details.
+
+==
+Smarter Data Feature: Updates to SGC tools for Commissioner-initiated assessments. No major changes this week.
+Bot Processing Feature: Discussion about integrating the statement of calculation feature into the current build. After consulting with relevant teams, the decision was made to proceed.
+
+SGC Tools and Smarter Data Update: SGC Version 1, used for raising default assessments, will be integrated into SGC Version 4, which will also handle payday super. This change aligns with PL191 but will not affect its scope.
+
+AST Feature and External Clients: A potential redesign of the landing page for external clients, directing them to either payday super or quarterly super lodgements, could simplify the AST feature.
+
+PL191 Progress: PL191 is on track. The team will focus on completing it to meet the Definition of Ready. Team members are encouraged to review the shared links and provide feedback.
+==
+Charge Calculator Tool: No updates on the tool on hr.gov.au.
+PL191: Glenn is continuing work on PL191 and has a meeting with AST next week to finalize acceptance criteria. Glenn is awaiting feedback on the related document and encouraged the team to review and provide comments.
+
+Belinda Midson's Update about System Interaction Diagram, after finalizing the acceptance criteria, AST will begin creating the System Interaction Diagram to support PL191, which will be added to the documentation.
+===
+Project 5106 - Compliance Redesign: Process flow mapped but will be covered under Project 5106, starting in the new year.
+
+SGC Notices & Payments: Employers receive SGC notice of assessment; payment is due immediately. If unpaid after 28 days, a Notice to Pay will be issued, with late payment penalties (25% for first-time, 50% for subsequent).
+
+SGC Estimates: SGC estimates are based on intelligence, without employee details. They may be replaced by default assessments if more data is available. Late payment penalties apply to SGC estimates.
+
+Quarterly Review Item: Jade Mackenzie requested removal of a low-volume quarterly review item, which was agreed upon.
+
+Objections & Amendments: Employers can object to SGC estimates, with the burden of proof on them.
