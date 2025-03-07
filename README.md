@@ -1,0 +1,5 @@
+- The Div 296 Tax Assessment process runs at a scheduled time, extracting pending triggers from the ICP functional table to generate a new form for individuals with existing triggers.  
+- Form processing rules initiate the calculation of the Div 296 Tax, with the function consuming the data captured on the form.  
+- Outcomes, including any Div 296 tax debts or carry-forward losses, are captured on the form and posted to the individual’s Div 296 tax account.  
+- If not already created, a Div 296 tax account and Due and Payable Role are established under the individual’s client account.  
+- Correspondence, including the Div 296 NOA and superfund notifications, is sent separately based on the assessment results, and manual adjustments to the form are supported with a reason selection.
