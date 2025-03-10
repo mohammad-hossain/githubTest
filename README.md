@@ -1,5 +1,4 @@
 Div 296 Noa and Noaa
-Here are 5 bullet points summarizing the key points:
 
 - A new Div 296 Tax Notice of Assessment (NOA) must be generated for clients with a new tax assessment, except when negative earnings calculations are present. The due date is 84 days from the issue date unless the amount is deferred.
 - Amended Div 296 Notice of Assessment (NOAA) is required if there are changes to a previously issued assessment. The new amounts must be included, and the due date for additional payable amounts is 84 days from the NOAA issue date.
@@ -11,7 +10,6 @@ Here are 5 bullet points summarizing the key points:
 
 DADL Ras
 
-Here are 5 bullet points summarizing the key details:
 
 - A new DADL RAS form is introduced to capture Div 293 and Div 296 data sent by Superfunds, enabling individuals to release amounts from their Superfund to pay deferred debts.
 - Individuals receive a Div 293 DADL letter from the ATO with a Release Authority Statement (RAS), which they can take to their Superfund to request a debt payment.
@@ -22,7 +20,6 @@ Here are 5 bullet points summarizing the key details:
 ========
 
 Div296 SOA
-Here are 5 bullet points highlighting the **Statement of Account (SOA)** process:
 
 - The ATO processes a **Statement of Account (SOA)** through a batch service, which includes the individual’s Div 296 tax assessment information.
 - The **SOA correspondence** is sent to the individual, providing a detailed summary of their Div 296 tax situation.
@@ -34,7 +31,6 @@ Here are 5 bullet points highlighting the **Statement of Account (SOA)** process
 
 Identify triggers
 
-Here are 5 bullet points summarizing the key details:
 
 - The **Div 296 Trigger service** runs on a scheduled basis, checking various ATO data sources to identify new Div 296 candidates or any changes in data since the last assessment.
 - The service checks for any **new Superfund memberships** for individuals previously identified as Div 296 candidates and processes them accordingly.
@@ -46,7 +42,6 @@ Here are 5 bullet points summarizing the key details:
 
 SAR changes
 
-Here are 5 bullet points summarizing the key details:
 
 - **SMSF Annual Return (SAR)** can be lodged electronically or via paper. When lodged electronically, SBR sends the SAR to ICP via EAI for processing; if lodged on paper, the SAR is scanned and sent to ICP.
 - Starting from the **2025-26 financial year**, the SAR will be updated to include two new labels: **U (Division 296 tax contributions)** and **V (Division 296 tax withdrawals)**, both of which will accept zero as a valid value.
@@ -56,7 +51,6 @@ Here are 5 bullet points summarizing the key details:
 
 =========
 Deferred account notification
-Here are 5 bullet points summarizing the key details:
 
 - The **Evaluate Transaction service** identifies new Div 296 Deferred Debt accounts and roles created after a Div 296 Tax Assessment, generating correspondence requests for the **Generate Auto Correspondence** service.
 - The **Generate Auto Correspondence** service sends notifications to Superfunds (including SMSFs with a USI) about the creation of a deferred debt account for defined benefit members, with correspondence grouped by **USI** or **ABN**.
@@ -66,7 +60,6 @@ Here are 5 bullet points summarizing the key details:
 ======
 
 No fund Shasa
-Here is a 5-bullet point overview based on the provided text:
 
 - The **ATO** will calculate the **Paid Parental Leave Superannuation Contribution (PPLSC)** based on data from **Services Australia** and match it to the eligible individual, ensuring payment to the correct superannuation fund or to the individual’s **SHAsa** account if no valid fund is identified within two years of the first PPL payment.
   
@@ -80,7 +73,6 @@ Here is a 5-bullet point overview based on the provided text:
 ===========
 
 PPL Calculation
-Here’s a 5-bullet point overview based on the steps provided:
 
 - **Transaction Evaluation and Aggregation**: The system identifies newly posted PPLSC forms, creates an Aggregation Request transaction, and processes transactions for the current and prior financial years. Aggregation checks for any suppressions or deceased status and proceeds to find a valid destination for remittance or recovery.
 
@@ -94,7 +86,6 @@ Here’s a 5-bullet point overview based on the steps provided:
 ========
 
 SEO cyclical
-Here’s a 5-bullet point overview based on the provided content:
 
 - **Individual Income Tax Return (IITR) Updates**: Updates and configurations are required for the 2024-25 Individual Income Tax Return (IITR), including validation and new configurations for various tax calculations.
 
@@ -109,7 +100,6 @@ Here’s a 5-bullet point overview based on the provided content:
 
 Exclude DASP
 
-Here’s a 5-bullet point overview based on the provided content:
 
 - **Manual Intervention for Cheque Claims**: When processing direct claims for cheques of $6,000 or less from ATO-held super, an aggregation rule prevents automatic cheque issuance, requiring manual intervention to create a credit balance request (CBR).
 
