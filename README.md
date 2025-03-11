@@ -1,3 +1,18 @@
+CCAPS
+
+1. **Cyclical Changes for SEO Systems**: Various SEO tools and systems need updates to support the administration of the super system, impacting key products like Contribution Caps and Transfer Balance Caps.
+  
+2. **Contribution Caps (CCAPS) Updates**: Changes are required for the CC Annual Basic Cap, ECC Deminimis, NCC Annual Basic Cap, ENCC Deminimis, and other related tools, effective in June 2025.
+
+3. **Transfer Balance Cap Adjustments**: Updates for Transfer Balance Cap (TBC), including criteria for indexation, ensuring proper calculations and acceptance of related parameters.
+
+4. **Outcome and Configuration Details**: A table details necessary changes for individual calculations, tools, and configurations for the products listed above.
+
+5. **Correct Issue of Determinations**: Ensure accurate issuing of ECC, ENCC, and DIV293 determinations by setting 'In Calculate' and 'In Issue' flags correctly.
+
+
+
+
 Div 296 Noa and Noaa
 
 - A new Div 296 Tax Notice of Assessment (NOA) must be generated for clients with a new tax assessment, except when negative earnings calculations are present. The due date is 84 days from the issue date unless the amount is deferred.
