@@ -1,3 +1,15 @@
+Listo
+
+1. **Cyclical Changes for SEO Tools**: Updates are necessary for various SEO systems and tools to support the super system administration, impacting products like Super Guarantee, Low Income Super Tax Offset, and Co-Contributions.
+
+2. **Superannuation Guarantee (SG) Changes**: Modifications are required for the SG contribution rate across multiple calculators, including the SG contributions calculator, SG charge statement calculator, and SG estimate tool, with CRDR uplifted for testing.
+
+3. **SG Max Super Contributions Base**: Adjustments to the SG max super contributions base, including updates to the SG estimate tool with CRDR uplifted for testing.
+
+4. **Low Income Super Tax Offset (LISTO)**: Changes include the application of LISTO for up to 3 prior years, with updates to the LISTO year on the calculator.
+
+5. **Co-Contribution Updates**: Changes to the Co-Contributions calculator for the current year and up to 3 prior years, including updates to income thresholds and variables in the ICP code table.
+
 CCAPS
 
 1. **Cyclical Changes for SEO Systems**: Various SEO tools and systems need updates to support the administration of the super system, impacting key products like Contribution Caps and Transfer Balance Caps.
