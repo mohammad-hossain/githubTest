@@ -1,3 +1,18 @@
+PLP 1
+
+The PPLSC is calculated using data from Services Australia and matched to the correct individual, ensuring payment to the appropriate superannuation fund or SHAsa account if no valid fund is found within two years.
+Any unpaid PPLSC entitlements not assigned to a superannuation fund within two years will be transferred to the individual's SHAsa account, provided the amount is above the minimum threshold.
+The ATO will recalculate PPLSC entitlements when Services Australia updates the PPL data, making additional payments or recovering overpayments as needed.
+The ATO automatically generates and sends correspondence to individuals with PPLSC entitlements, including determination letters, unassigned fund notifications, and annual statements, based on client preferences through MyGov or GAC Batch.
+The ICP form captures all relevant details of the PPLSC calculation, including total entitlement, payment date, and destination (superannuation fund or SHAsa), and is accessible by ATO staff with updates for any changes.
+
+PLP2
+- The system finds newly posted PPLSC forms, creates an Aggregation Request, and processes transactions for the current and previous financial years.  
+- It checks for any issues, like suppressed or deceased status, and looks for a valid destination for remittance or recovery.  
+- When a valid destination is found, it calculates interest based on PPLSC rules and stores the details in a new form, which will be used to send information to the individual.  
+- Aggregation groups amounts by provider, creating remittance or recovery roles for each super fund. It debits the individual’s PPLSC role and credits the super fund’s role accordingly.  
+- After aggregation, the system creates and sends correspondence to the individual. For SMSF funds, PPLSC amounts are included in the SG remittance, and amounts are sent to super providers via RBA.
+
 Listo
 
 1. **Cyclical Changes for SEO Tools**: Updates are necessary for various SEO systems and tools to support the super system administration, impacting products like Super Guarantee, Low Income Super Tax Offset, and Co-Contributions.
